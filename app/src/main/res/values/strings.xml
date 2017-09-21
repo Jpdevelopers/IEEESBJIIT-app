@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IEEESBJIIT</string>
+    <string-array name="title_names">
+        <item>"Upcoming Events"</item>
+        <item>"Events/Workshops"</item>
+        <item>"Team Coordinators"</item>
+        <item>"Companies Associated"</item>
+        <item> Authorities</item>
+        <item>"About IEEE SB JIIT"</item>
+        <item>"About IEEE"</item>
+    </string-array>
+    <string-array name="subtitle_names">
+        <item>"Register yourself in our upcoming events"</item>
+        <item>"Organised by IEEE in last few years"</item>
+        <item>"Faculty, alumni and students linked with branch"</item>
+        <item>"Our sponsors in our events and workshops"</item>
+        <item>Authorities of JIIT</item>
+        <item>"Background, objectives of our student branch"</item>
+        <item>"Everything about IEEE as an International Organisation"</item>
+    </string-array>
+</resources>
