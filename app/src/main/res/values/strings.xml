@@ -18,4 +18,8 @@
         <item>"Background, objectives of our student branch"</item>
         <item>"Everything about IEEE as an International Organisation"</item>
     </string-array>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="copyright">Copyright © 2017 IEEE JIIT SB . All Rights Reserved.</string>
+
 </resources>

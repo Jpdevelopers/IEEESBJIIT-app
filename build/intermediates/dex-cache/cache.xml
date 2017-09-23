@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/libs/CircleImageView-master/gradle/wrapper/gradle-wrapper.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d229475a85469cc6aab6348e8714bd1c1f833fb4">
+        <dex dex="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/pre-dexed/debug/gradle-wrapper_964a2360d8c520edc66dfa80ddb6f6f4bb853a50.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/goto_site"
+            android:title="Go to site"
+            android:icon="@drawable/browse"></item>
+        <item
+            android:id="@+id/signout_drawer"
+            android:title="Sign Out"
+            android:icon="@drawable/logout"></item>
+    </group>
+
+    <item
+        android:title="Settings">
+        <menu>
+            <item android:title="Change password" android:icon="@drawable/pencil" android:id="@+id/change_password"></item>
+
+        </menu>
+    </item>
+
+
+
+</menu>

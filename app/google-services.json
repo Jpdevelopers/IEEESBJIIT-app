@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "118366211328",
+    "firebase_url": "https://ieeesbjiit-72ecc.firebaseio.com",
+    "project_id": "ieeesbjiit-72ecc",
+    "storage_bucket": "ieeesbjiit-72ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118366211328:android:299050dc25f6c7b5",
+        "android_client_info": {
+          "package_name": "com.dev.ieeesbjiit.ieeesbjiit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118366211328-vhv28c8s6n210s69rennse62h9b9ki60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUhqCQxYPnscPLgaJjnrJIGzZfn5G1Ss8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
