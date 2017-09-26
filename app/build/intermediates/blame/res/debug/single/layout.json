@@ -40,6 +40,10 @@
         "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/layout/design_layout_snackbar.xml"
     },
     {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/event_card.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/event_card.xml"
+    },
+    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/notification_template_media.xml"
     },
@@ -52,20 +56,20 @@
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/layout/design_bottom_sheet_dialog.xml"
-    },
-    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
@@ -106,6 +110,10 @@
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/activity_previous_events.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/activity_previous_events.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
@@ -150,6 +158,10 @@
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/dialog_view.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/dialog_view.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/notification_action.xml",

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/team.png",
-        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/team.png"
-    },
-    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/ieee.png",
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/ieee.png"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/team.png",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/team.png"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
@@ -104,6 +104,10 @@
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/dialog_bg.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/dialog_bg.xml"
+    },
+    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
@@ -166,6 +170,10 @@
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
         "source": "/home/yugank/.android/build-cache/e3973de00b62d13e4a29722b4643286ba97cd48b/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/team_card.jpg",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/team_card.jpg"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",

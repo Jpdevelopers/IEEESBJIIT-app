@@ -39,6 +39,9 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.dev.ieeesbjiit.ieeesbjiit.PreviousEvents"
+            android:theme="@style/my_theme" />
+        <activity
             android:name="com.dev.ieeesbjiit.ieeesbjiit.registerActivity"
             android:screenOrientation="portrait" />
         <activity android:name="com.dev.ieeesbjiit.ieeesbjiit.MainActivity" >

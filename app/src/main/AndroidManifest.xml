@@ -18,6 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PreviousEvents"
+            android:theme="@style/my_theme" />
         <activity android:name=".registerActivity"
             android:screenOrientation="portrait"/>
         <activity android:name=".MainActivity">

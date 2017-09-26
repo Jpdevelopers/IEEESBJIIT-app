@@ -66,7 +66,30 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
         @Override
         public void onClick(View v) {
+            int position= getAdapterPosition();
 
+            switch(position)
+            {
+                case 0:
+                {
+                    Intent intt= new Intent();
+                    intt.setClass(this.ctx, PreviousEvents.class);
+                    intt.putExtra("DIRECTOR", 1);
+                    this.ctx.startActivity(intt);
+                    break;
+                }
+                case 1:
+                {
+                    Intent intt= new Intent();
+                    intt.setClass(this.ctx, PreviousEvents.class);
+                    intt.putExtra("DIRECTOR", 2);
+                    this.ctx.startActivity(intt);
+                    break;
+                }
+
+
+
+            }
         }
     }
 
