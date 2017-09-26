@@ -30,6 +30,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".TeamSessions"
+            android:label="Office Bearers"
+            android:theme="@style/my_theme" />
+        <activity
+            android:name=".members_activity"
+            android:label="Office Bearers"
+            android:theme="@style/my_theme" />
     </application>
 
 </manifest>

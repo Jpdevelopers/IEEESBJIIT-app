@@ -4,6 +4,10 @@
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/activity_register.xml"
     },
     {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/activity_team_sessions.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/activity_team_sessions.xml"
+    },
+    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_search_view.xml"
     },
@@ -56,12 +60,12 @@
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_action_menu_layout.xml"
-    },
-    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
@@ -160,6 +164,10 @@
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/team_member_card.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/team_member_card.xml"
+    },
+    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/dialog_view.xml",
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/dialog_view.xml"
     },
@@ -222,6 +230,14 @@
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/session_recycler_item.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/session_recycler_item.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/activity_members_activity.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/activity_members_activity.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",

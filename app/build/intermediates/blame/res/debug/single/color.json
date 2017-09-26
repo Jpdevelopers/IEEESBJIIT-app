@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/color/abc_tint_spinner.xml"
-    },
-    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/color/design_error.xml",
         "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/color/abc_tint_spinner.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",

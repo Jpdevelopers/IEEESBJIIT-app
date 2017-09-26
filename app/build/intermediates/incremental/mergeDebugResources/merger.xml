@@ -1913,6 +1913,16 @@
         <item> Authorities</item>
         <item>"About IEEE SB JIIT"</item>
         <item>"About IEEE"</item>
+    </string-array><string-array name="star_alumni_email">
+        <item>✉ hg060595@gmail.com</item>
+        <item>✉ dixit.goyal@wedosky.com</item>
+        <item>✉ vaibhavbansal23@gmail.com</item>
+        <item>✉ suyash.somani@gmail.com</item>
+        <item>✉ umangandrewfrancis@gmail.com</item>
+        <item>✉ gnischay2@gmail.com</item>
+        <item>✉ aashish12102195@gmail.com</item>
+        <item>✉ ojasvi2963@gmail.com</item>
+        <item>✉ Trishantdeo@gmail.com</item>
     </string-array><string-array name="subtitle_names">
         <item>"Register yourself in our upcoming events"</item>
         <item>"Organised by IEEE in last few years"</item>
@@ -1921,7 +1931,135 @@
         <item>Authorities of JIIT</item>
         <item>"Background, objectives of our student branch"</item>
         <item>"Everything about IEEE as an International Organisation"</item>
-    </string-array><string name="drawer_close">drawer close</string><string name="app_name">IEEESBJIIT</string><string name="copyright">Copyright © 2017 IEEE JIIT SB . All Rights Reserved.</string><string name="drawer_open">drawer open</string></file><file path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </string-array><string-array name="team_post">
+        <item>Chairperson</item>
+        <item>Vice Chairperson</item>
+        <item>Managing Secretary</item>
+        <item>Organising Secretary</item>
+        <item>Treasurer</item>
+        <item>Event Management Officer</item>
+        <item>Technical Officer(CSE)</item>
+        <item>Technical Officer(ECE)</item>
+        <item>Webmaster</item>
+        <item>Creative Officer</item>
+        <item>Marketing Manager</item>
+        <item>Strategic Officer</item>
+        <item>Public Relations Officer</item>
+        <item>R&amp;D Officer</item>
+    </string-array><string name="drawer_close">drawer close</string><string-array name="team_email">
+        <item>✉ gargya.shelly@gmail.com</item>
+        <item>✉ achint43@gmail.com </item>
+        <item>✉ salonisrivastav97@gmail.com</item>
+        <item>✉ pragatijaggi01@gmail.com</item>
+        <item>✉ yashgarg1611@gmail.com</item>
+        <item>✉ singhal.sar@gmail.com</item>
+        <item>✉ sajal.subodh10297@gmail.com</item>
+        <item>✉ ambrishsekhri31@gmail.com</item>
+        <item>✉ prabhat47.1928@gmail.com</item>
+        <item>✉ gandhi.karan24@gmail.com</item>
+        <item>✉ reetika7096@icloud.com</item>
+        <item>✉ rajershigahoi@gmail.com</item>
+        <item>✉ stark007.sc@gmail.com</item>
+        <item>✉ avantikagupta.96@gmail.com</item>
+    </string-array><string-array name="star_alumni_posts">
+        <item>Chair Person\n(2015–16)</item>
+        <item>Vice Chair Person\n(2015–16)</item>
+        <item>Treasurer\n(2015–16)</item>
+        <item>Event Management Officer\n(2015–16)</item>
+        <item>Secretary\n(2015–16)</item>
+        <item>Vice Chair Person\n(2014–15)</item>
+        <item>Event Management Officer</item>
+        <item>Membership Development Officer\n(2014–15)</item>
+        <item>General Secretary\n(2014–15)</item>
+    </string-array><string name="app_name">IEEESBJIIT</string><string name="copyright">Copyright © 2017 IEEE JIIT SB . All Rights Reserved.</string><string-array name="member_names">
+        <item>Shivam Arora</item>
+        <item>Shivan Trivedi</item>
+        <item>Paras Arora</item>
+        <item>Piyush Tyagi</item>
+        <item>Saurabh Khurana</item>
+        <item>Shivam Shukla</item>
+        <item>Shubhi Khare</item>
+        <item>Manogya Khanna</item>
+        <item>Mayank Nayyar</item>
+        <item>Sumit Garg</item>
+        <item>Tejasv Chhari</item>
+    </string-array><string-array name="team_name">
+        <item>Yugank Sharma</item>
+        <item>Achint Chauhan</item>
+        <item>Saloni Srivastav</item>
+        <item>Pragati Jaggi</item>
+        <item>Yash Garg</item>
+        <item>Saransh Singhal</item>
+        <item>Sajal Subodh</item>
+        <item>Ambrish Sekhri</item>
+        <item>Prabhat Shukla</item>
+        <item>Karan Gandhi</item>
+        <item>Reetika Singh</item>
+        <item>Rajershi Gahoi</item>
+        <item>Shaunak Chaddha</item>
+        <item>Avantika Gupta</item>
+    </string-array><string-array name="member_emails">
+        <item>✉ shivamrr9@gmail.com</item>
+        <item>✉ unity3d.customer@gmail.com</item>
+        <item>✉ paras18arora@gmail.com</item>
+        <item>✉ mepiyushtyagi@gmail.com</item>
+        <item>✉ khuranasaurabh20@gmail.com</item>
+        <item>✉ (not available)</item>
+        <item>✉ shubhikhare07@gmail.com</item>
+        <item>✉ manogyakhanna@gmail.com</item>
+        <item>✉ (not available)</item>
+        <item>✉ sumitsgs119@gmail.com</item>
+        <item>✉ tejasvchhari97@gmail.com</item>
+    </string-array><string-array name="star_alumni_name">
+        <item>Harsh Goyal</item>
+        <item>Dixit Goyal</item>
+        <item>Vaibhav Bansal</item>
+        <item>Suyash Somani</item>
+        <item>Umang Andrew Francis</item>
+        <item>Nischay Gupta</item>
+        <item>Aashish Chaudhary</item>
+        <item>Ojasvi Sharma</item>
+        <item>Trishant Dev</item>
+    </string-array><string-array name="member_posts">
+        <item>Chair Person\n(2016–17)</item>
+        <item>Vice Chair Person\n(2016–17)</item>
+        <item>Secretary\n(2016–17)</item>
+        <item>Treasurer\n(2016–17)</item>
+        <item>Event Management Officer\n(2016–17)</item>
+        <item>Membership Development Officer\n(2016–17)</item>
+        <item>Technical Officer\n(2016–17)</item>
+        <item>Joint Secretary\n (2016–17)</item>
+        <item>Junior Treasurer\n(2016–17)</item>
+        <item>Public Relations Officer\n(2016–17)</item>
+        <item>Creative Officer\n(2016–17)</item>
+    </string-array><string-array name="auth_name">
+        <item>Shri Jaiprakash Gaur</item>
+        <item>Professor (Dr.) S C Saxena</item>
+        <item>Cmde.K.K. Rohatgi (retd)</item>
+        <item>Prof.Krishna Gopal</item>
+        <item>Prof.R.C.Jain</item>
+    </string-array><string name="drawer_open">drawer open</string><string-array name="auth_desc">
+        <item>Founder and Ex-Chairman of JP Group\nFounder of JSS</item>
+        <item>Vice Chancellor (Acting) </item>
+        <item>Dean Students Affairs, Head (T&amp;P) and Nodal Officer for Students Facilitation </item>
+        <item>Admin Manager</item>
+        <item>HoD-CSE/IT</item>
+        <item>HoD-ECE</item>
+    </string-array><string-array name="star_alumni_work">
+        <item>Working at: SAP labs</item>
+        <item>Working at: Wedosky</item>
+        <item>Working at: KartRocket</item>
+        <item>Studying at: XIM, Bhubneshwar</item>
+        <item>Working at: Wipro</item>
+        <item>Working at: Wipro</item>
+        <item>Working at: Erricson</item>
+        <item>Studying at: IIM Ranchi</item>
+        <item>Working at: Wipro</item>
+    </string-array><string-array name="sessions">
+        <item>"☮  Session 2017–18 (Current)"</item>
+        <item>"☮  Session 2016–17 (Senior Advisors)"</item>
+        <item>"☮  Star Alumni"</item>
+    </string-array></file><file path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -1930,7 +2068,7 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-    </style></file><file path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="app_bar_height">180dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="fab_margin">16dp</dimen><dimen name="appbar_padding_top">8dp</dimen><dimen name="text_margin">16dp</dimen></file><file name="welcome_not" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/raw/welcome_not.mp3" qualifiers="" type="raw"/><file name="ic_launcher" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="upcoming_events" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/upcoming_events.png" qualifiers="" type="drawable"/><file name="logout" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/logout.png" qualifiers="" type="drawable"/><file name="ieeesb" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/ieeesb.png" qualifiers="" type="drawable"/><file name="team" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/team.png" qualifiers="" type="drawable"/><file name="header_bg" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/header_bg.jpg" qualifiers="" type="drawable"/><file name="auth2" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/auth2.png" qualifiers="" type="drawable"/><file name="login_bg" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/login_bg.xml" qualifiers="" type="drawable"/><file name="partnersicon" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/partnersicon.png" qualifiers="" type="drawable"/><file name="ieee" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/ieee.png" qualifiers="" type="drawable"/><file name="chat_spprt" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/chat_spprt.png" qualifiers="" type="drawable"/><file name="events_arrnged" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/events_arrnged.png" qualifiers="" type="drawable"/><file name="pencil" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/pencil.png" qualifiers="" type="drawable"/><file name="table_bg" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/table_bg.jpg" qualifiers="" type="drawable"/><file name="browse" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/browse.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="menu_dispaly" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/menu/menu_dispaly.xml" qualifiers="" type="menu"/><file name="drawer_menu" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/menu/drawer_menu.xml" qualifiers="" type="menu"/><file name="team_card" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/team_card.jpg" qualifiers="" type="drawable"/><file name="dialog_bg" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/dialog_bg.xml" qualifiers="" type="drawable"/><file name="activity_previous_events" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/activity_previous_events.xml" qualifiers="" type="layout"/><file name="dialog_view" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/dialog_view.xml" qualifiers="" type="layout"/><file name="event_card" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/event_card.xml" qualifiers="" type="layout"/></source><source path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/rs/debug"/><source path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/resValues/debug"/><source path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/google-services/debug"><file path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/google-services/debug/values/values.xml" qualifiers=""><string name="project_id" translatable="false">ieeesbjiit-72ecc</string><string name="default_web_client_id" translatable="false">118366211328-vhv28c8s6n210s69rennse62h9b9ki60.apps.googleusercontent.com</string><string name="google_app_id" translatable="false">1:118366211328:android:299050dc25f6c7b5</string><string name="firebase_database_url" translatable="false">https://ieeesbjiit-72ecc.firebaseio.com</string><string name="google_api_key" translatable="false">AIzaSyCUhqCQxYPnscPLgaJjnrJIGzZfn5G1Ss8</string><string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUhqCQxYPnscPLgaJjnrJIGzZfn5G1Ss8</string><string name="google_storage_bucket" translatable="false">ieeesbjiit-72ecc.appspot.com</string><string name="gcm_defaultSenderId" translatable="false">118366211328</string></file></source></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog"><attr name="android:layout"/><attr format="reference" name="buttonPanelSideLayout"/><attr format="reference" name="listLayout"/><attr format="reference" name="multiChoiceItemLayout"/><attr format="reference" name="singleChoiceItemLayout"/><attr format="reference" name="listItemLayout"/><attr format="boolean" name="showTitle"/></declare-styleable><declare-styleable name="AppCompatSeekBar"><attr name="android:thumb"/><attr format="reference" name="tickMark"/><attr format="color" name="tickMarkTint"/><attr name="tickMarkTintMode">
+    </style></file><file path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="app_bar_height">180dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="fab_margin">16dp</dimen><dimen name="appbar_padding_top">8dp</dimen><dimen name="text_margin">16dp</dimen></file><file name="welcome_not" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/raw/welcome_not.mp3" qualifiers="" type="raw"/><file name="ic_launcher" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="upcoming_events" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/upcoming_events.png" qualifiers="" type="drawable"/><file name="logout" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/logout.png" qualifiers="" type="drawable"/><file name="ieeesb" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/ieeesb.png" qualifiers="" type="drawable"/><file name="team" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/team.png" qualifiers="" type="drawable"/><file name="header_bg" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/header_bg.jpg" qualifiers="" type="drawable"/><file name="auth2" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/auth2.png" qualifiers="" type="drawable"/><file name="login_bg" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/login_bg.xml" qualifiers="" type="drawable"/><file name="partnersicon" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/partnersicon.png" qualifiers="" type="drawable"/><file name="ieee" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/ieee.png" qualifiers="" type="drawable"/><file name="chat_spprt" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/chat_spprt.png" qualifiers="" type="drawable"/><file name="events_arrnged" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/events_arrnged.png" qualifiers="" type="drawable"/><file name="pencil" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/pencil.png" qualifiers="" type="drawable"/><file name="table_bg" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/table_bg.jpg" qualifiers="" type="drawable"/><file name="browse" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/browse.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="menu_dispaly" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/menu/menu_dispaly.xml" qualifiers="" type="menu"/><file name="drawer_menu" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/menu/drawer_menu.xml" qualifiers="" type="menu"/><file name="team_card" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/team_card.jpg" qualifiers="" type="drawable"/><file name="dialog_bg" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/dialog_bg.xml" qualifiers="" type="drawable"/><file name="activity_previous_events" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/activity_previous_events.xml" qualifiers="" type="layout"/><file name="dialog_view" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/dialog_view.xml" qualifiers="" type="layout"/><file name="event_card" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/event_card.xml" qualifiers="" type="layout"/><file name="shubhi_khare" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/shubhi_khare.jpg" qualifiers="" type="drawable"/><file name="yash" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/yash.jpg" qualifiers="" type="drawable"/><file name="shivan" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/shivan.jpg" qualifiers="" type="drawable"/><file name="gaurav_verma" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/gaurav_verma.jpg" qualifiers="" type="drawable"/><file name="achint" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/achint.jpg" qualifiers="" type="drawable"/><file name="ambrish" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/ambrish.jpg" qualifiers="" type="drawable"/><file name="sajal" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/sajal.jpg" qualifiers="" type="drawable"/><file name="activity_members_activity" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/activity_members_activity.xml" qualifiers="" type="layout"/><file name="manogya" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/manogya.jpg" qualifiers="" type="drawable"/><file name="somani" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/somani.jpg" qualifiers="" type="drawable"/><file name="yugank" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/yugank.jpg" qualifiers="" type="drawable"/><file name="shuanak" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/shuanak.jpeg" qualifiers="" type="drawable"/><file name="harsh" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/harsh.jpg" qualifiers="" type="drawable"/><file name="dixit" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/dixit.jpg" qualifiers="" type="drawable"/><file name="aashish_c" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/aashish_c.jpg" qualifiers="" type="drawable"/><file name="avantika" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/avantika.jpg" qualifiers="" type="drawable"/><file name="umang_francis" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/umang_francis.jpg" qualifiers="" type="drawable"/><file name="session_recycler_item" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/session_recycler_item.xml" qualifiers="" type="layout"/><file name="team_member_card" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/team_member_card.xml" qualifiers="" type="layout"/><file name="prabhu" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/prabhu.jpg" qualifiers="" type="drawable"/><file name="ojasvi" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/ojasvi.jpg" qualifiers="" type="drawable"/><file name="mayank_nayyar" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/mayank_nayyar.jpg" qualifiers="" type="drawable"/><file name="activity_team_sessions" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/activity_team_sessions.xml" qualifiers="" type="layout"/><file name="shivam_shukla" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/shivam_shukla.jpg" qualifiers="" type="drawable"/><file name="karan" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/karan.jpeg" qualifiers="" type="drawable"/><file name="raj" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/raj.jpg" qualifiers="" type="drawable"/><file name="pragati" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/pragati.jpeg" qualifiers="" type="drawable"/><file name="piyush_tyagi" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/piyush_tyagi.jpg" qualifiers="" type="drawable"/><file name="vaibhav" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/vaibhav.jpg" qualifiers="" type="drawable"/><file name="nischay_gupta" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/nischay_gupta.jpg" qualifiers="" type="drawable"/><file name="saransh" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/saransh.jpg" qualifiers="" type="drawable"/><file name="shivam" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/shivam.jpg" qualifiers="" type="drawable"/><file name="reetika" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/reetika.jpg" qualifiers="" type="drawable"/><file name="tejasv" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/tejasv.jpg" qualifiers="" type="drawable"/><file name="saloni" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/saloni.jpg" qualifiers="" type="drawable"/><file name="sumit" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/sumit.jpg" qualifiers="" type="drawable"/><file name="saurabh_khurana" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/saurabh_khurana.jpg" qualifiers="" type="drawable"/><file name="trishant" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/trishant.jpg" qualifiers="" type="drawable"/><file name="paras" path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/paras.jpg" qualifiers="" type="drawable"/></source><source path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/rs/debug"/><source path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/resValues/debug"/><source path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/google-services/debug"><file path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/google-services/debug/values/values.xml" qualifiers=""><string name="project_id" translatable="false">ieeesbjiit-72ecc</string><string name="default_web_client_id" translatable="false">118366211328-vhv28c8s6n210s69rennse62h9b9ki60.apps.googleusercontent.com</string><string name="google_app_id" translatable="false">1:118366211328:android:299050dc25f6c7b5</string><string name="firebase_database_url" translatable="false">https://ieeesbjiit-72ecc.firebaseio.com</string><string name="google_api_key" translatable="false">AIzaSyCUhqCQxYPnscPLgaJjnrJIGzZfn5G1Ss8</string><string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUhqCQxYPnscPLgaJjnrJIGzZfn5G1Ss8</string><string name="google_storage_bucket" translatable="false">ieeesbjiit-72ecc.appspot.com</string><string name="gcm_defaultSenderId" translatable="false">118366211328</string></file></source></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog"><attr name="android:layout"/><attr format="reference" name="buttonPanelSideLayout"/><attr format="reference" name="listLayout"/><attr format="reference" name="multiChoiceItemLayout"/><attr format="reference" name="singleChoiceItemLayout"/><attr format="reference" name="listItemLayout"/><attr format="boolean" name="showTitle"/></declare-styleable><declare-styleable name="AppCompatSeekBar"><attr name="android:thumb"/><attr format="reference" name="tickMark"/><attr format="color" name="tickMarkTint"/><attr name="tickMarkTintMode">
             
             <enum name="src_over" value="3"/>
             

@@ -87,7 +87,11 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
                     break;
                 }
 
-
+                case 2:
+                {
+                    this.ctx.startActivity(new Intent(this.ctx, TeamSessions.class));
+                    break;
+                }
 
             }
         }

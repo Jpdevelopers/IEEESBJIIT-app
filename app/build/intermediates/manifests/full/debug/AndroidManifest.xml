@@ -52,6 +52,14 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.dev.ieeesbjiit.ieeesbjiit.TeamSessions"
+            android:label="Office Bearers"
+            android:theme="@style/my_theme" />
+        <activity
+            android:name="com.dev.ieeesbjiit.ieeesbjiit.members_activity"
+            android:label="Office Bearers"
+            android:theme="@style/my_theme" />
+        <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />

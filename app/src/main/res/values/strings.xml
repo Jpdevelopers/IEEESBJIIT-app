@@ -22,4 +22,167 @@
     <string name="drawer_close">drawer close</string>
     <string name="copyright">Copyright © 2017 IEEE JIIT SB . All Rights Reserved.</string>
 
+    <string-array name="sessions">
+        <item>"&#9774;  Session 2017&#8211;18 (Current)"</item>
+        <item>"&#9774;  Session 2016&#8211;17 (Senior Advisors)"</item>
+        <item>"&#9774;  Star Alumni"</item>
+    </string-array>
+    <string-array name="team_name">
+        <item>Yugank Sharma</item>
+        <item>Achint Chauhan</item>
+        <item>Saloni Srivastav</item>
+        <item>Pragati Jaggi</item>
+        <item>Yash Garg</item>
+        <item>Saransh Singhal</item>
+        <item>Sajal Subodh</item>
+        <item>Ambrish Sekhri</item>
+        <item>Prabhat Shukla</item>
+        <item>Karan Gandhi</item>
+        <item>Reetika Singh</item>
+        <item>Rajershi Gahoi</item>
+        <item>Shaunak Chaddha</item>
+        <item>Avantika Gupta</item>
+    </string-array>
+
+    <string-array name="team_post">
+        <item>Chairperson</item>
+        <item>Vice Chairperson</item>
+        <item>Managing Secretary</item>
+        <item>Organising Secretary</item>
+        <item>Treasurer</item>
+        <item>Event Management Officer</item>
+        <item>Technical Officer(CSE)</item>
+        <item>Technical Officer(ECE)</item>
+        <item>Webmaster</item>
+        <item>Creative Officer</item>
+        <item>Marketing Manager</item>
+        <item>Strategic Officer</item>
+        <item>Public Relations Officer</item>
+        <item>R&amp;D Officer</item>
+    </string-array>
+
+    ✉
+    <string-array name="team_email">
+        <item>✉ gargya.shelly@gmail.com</item>
+        <item>✉ achint43@gmail.com </item>
+        <item>✉ salonisrivastav97@gmail.com</item>
+        <item>✉ pragatijaggi01@gmail.com</item>
+        <item>✉ yashgarg1611@gmail.com</item>
+        <item>✉ singhal.sar@gmail.com</item>
+        <item>✉ sajal.subodh10297@gmail.com</item>
+        <item>✉ ambrishsekhri31@gmail.com</item>
+        <item>✉ prabhat47.1928@gmail.com</item>
+        <item>✉ gandhi.karan24@gmail.com</item>
+        <item>✉ reetika7096@icloud.com</item>
+        <item>✉ rajershigahoi@gmail.com</item>
+        <item>✉ stark007.sc@gmail.com</item>
+        <item>✉ avantikagupta.96@gmail.com</item>
+    </string-array>
+
+    <string-array name="member_names">
+        <item>Shivam Arora</item>
+        <item>Shivan Trivedi</item>
+        <item>Paras Arora</item>
+        <item>Piyush Tyagi</item>
+        <item>Saurabh Khurana</item>
+        <item>Shivam Shukla</item>
+        <item>Shubhi Khare</item>
+        <item>Manogya Khanna</item>
+        <item>Mayank Nayyar</item>
+        <item>Sumit Garg</item>
+        <item>Tejasv Chhari</item>
+    </string-array>
+
+    <string-array name="member_posts">
+        <item>Chair Person\n(2016&#8211;17)</item>
+        <item>Vice Chair Person\n(2016&#8211;17)</item>
+        <item>Secretary\n(2016&#8211;17)</item>
+        <item>Treasurer\n(2016&#8211;17)</item>
+        <item>Event Management Officer\n(2016&#8211;17)</item>
+        <item>Membership Development Officer\n(2016&#8211;17)</item>
+        <item>Technical Officer\n(2016&#8211;17)</item>
+        <item>Joint Secretary\n (2016&#8211;17)</item>
+        <item>Junior Treasurer\n(2016&#8211;17)</item>
+        <item>Public Relations Officer\n(2016&#8211;17)</item>
+        <item>Creative Officer\n(2016&#8211;17)</item>
+    </string-array>
+
+    <string-array name="member_emails">
+        <item>✉ shivamrr9@gmail.com</item>
+        <item>✉ unity3d.customer@gmail.com</item>
+        <item>✉ paras18arora@gmail.com</item>
+        <item>✉ mepiyushtyagi@gmail.com</item>
+        <item>✉ khuranasaurabh20@gmail.com</item>
+        <item>✉ (not available)</item>
+        <item>✉ shubhikhare07@gmail.com</item>
+        <item>✉ manogyakhanna@gmail.com</item>
+        <item>✉ (not available)</item>
+        <item>✉ sumitsgs119@gmail.com</item>
+        <item>✉ tejasvchhari97@gmail.com</item>
+    </string-array>
+
+    <string-array name="star_alumni_name">
+        <item>Harsh Goyal</item>
+        <item>Dixit Goyal</item>
+        <item>Vaibhav Bansal</item>
+        <item>Suyash Somani</item>
+        <item>Umang Andrew Francis</item>
+        <item>Nischay Gupta</item>
+        <item>Aashish Chaudhary</item>
+        <item>Ojasvi Sharma</item>
+        <item>Trishant Dev</item>
+    </string-array>
+
+    <string-array name="star_alumni_posts">
+        <item>Chair Person\n(2015&#8211;16)</item>
+        <item>Vice Chair Person\n(2015&#8211;16)</item>
+        <item>Treasurer\n(2015&#8211;16)</item>
+        <item>Event Management Officer\n(2015&#8211;16)</item>
+        <item>Secretary\n(2015&#8211;16)</item>
+        <item>Vice Chair Person\n(2014&#8211;15)</item>
+        <item>Event Management Officer</item>
+        <item>Membership Development Officer\n(2014&#8211;15)</item>
+        <item>General Secretary\n(2014&#8211;15)</item>
+    </string-array>
+
+    <string-array name="star_alumni_email">
+        <item>✉ hg060595@gmail.com</item>
+        <item>✉ dixit.goyal@wedosky.com</item>
+        <item>✉ vaibhavbansal23@gmail.com</item>
+        <item>✉ suyash.somani@gmail.com</item>
+        <item>✉ umangandrewfrancis@gmail.com</item>
+        <item>✉ gnischay2@gmail.com</item>
+        <item>✉ aashish12102195@gmail.com</item>
+        <item>✉ ojasvi2963@gmail.com</item>
+        <item>✉ Trishantdeo@gmail.com</item>
+    </string-array>
+    <string-array name="star_alumni_work">
+        <item>Working at: SAP labs</item>
+        <item>Working at: Wedosky</item>
+        <item>Working at: KartRocket</item>
+        <item>Studying at: XIM, Bhubneshwar</item>
+        <item>Working at: Wipro</item>
+        <item>Working at: Wipro</item>
+        <item>Working at: Erricson</item>
+        <item>Studying at: IIM Ranchi</item>
+        <item>Working at: Wipro</item>
+    </string-array>
+
+    <string-array name="auth_name">
+        <item>Shri Jaiprakash Gaur</item>
+        <item>Professor (Dr.) S C Saxena</item>
+        <item>Cmde.K.K. Rohatgi (retd)</item>
+        <item>Prof.Krishna Gopal</item>
+        <item>Prof.R.C.Jain</item>
+    </string-array>
+
+    <string-array name="auth_desc">
+        <item>Founder and Ex-Chairman of JP Group\nFounder of JSS</item>
+        <item>Vice Chancellor (Acting) </item>
+        <item>Dean Students Affairs, Head (T&amp;P) and Nodal Officer for Students Facilitation </item>
+        <item>Admin Manager</item>
+        <item>HoD-CSE/IT</item>
+        <item>HoD-ECE</item>
+    </string-array>
+
 </resources>

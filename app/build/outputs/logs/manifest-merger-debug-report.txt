@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:2:1-35:12
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:2:1-43:12
 	package
 		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/Androi
 		INJECTED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml
 		INJECTED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:5:5-33:19
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:5:5-41:19
 MERGED from [com.android.support:cardview-v7:25.3.1] /home/yugank/.android/build-cache/15341d40e7db32fd7756d4f35f09ad39dfb986c6/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:design:25.3.1] /home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.1] /home/yugank/.android/build-cache/110da0cf1e5b3a6d021b1481431eca9b88f60a5f/output/AndroidManifest.xml:26:5-20
@@ -83,6 +83,22 @@ activity#com.dev.ieeesbjiit.ieeesbjiit.MainActivity
 ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:26:9-32:20
 	android:name
 		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:26:19-47
+activity#com.dev.ieeesbjiit.ieeesbjiit.TeamSessions
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:33:9-36:47
+	android:label
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:34:13-41
+activity#com.dev.ieeesbjiit.ieeesbjiit.members_activity
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:37:9-40:47
+	android:label
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:39:13-43
+	android:theme
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:38:13-45
 uses-sdk
 INJECTED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:cardview-v7:25.3.1] /home/yugank/.android/build-cache/15341d40e7db32fd7756d4f35f09ad39dfb986c6/output/AndroidManifest.xml:20:5-43
