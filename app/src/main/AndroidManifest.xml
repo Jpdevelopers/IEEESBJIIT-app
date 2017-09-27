@@ -9,14 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".loginActivity"
-            android:screenOrientation="portrait"
-            >
+        <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".loginActivity"
+            android:screenOrientation="portrait">
+
         </activity>
         <activity
             android:name=".PreviousEvents"
@@ -24,11 +26,7 @@
         <activity android:name=".registerActivity"
             android:screenOrientation="portrait"/>
         <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".TeamSessions"
@@ -49,9 +47,12 @@
             android:theme="@style/AppTheme" />
         <activity
             android:name=".AboutIeeeOrg"
-            android:label="@string/title_activity_about_ieee_sb"
+            android:label="@string/title_activity_about_ieee_org"
             android:theme="@style/AppTheme" />
-
+        <activity
+            android:name=".ChatSupport"
+            android:label="Chat Support"
+            android:theme="@style/my_theme" />
     </application>
 
 </manifest>

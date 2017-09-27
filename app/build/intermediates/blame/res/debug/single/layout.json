@@ -36,6 +36,10 @@
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
         "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/layout/design_navigation_menu_item.xml"
     },
@@ -216,6 +220,10 @@
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/activity_main_lib.xml",
+        "source": "/home/yugank/.android/build-cache/67acd1f84547e1155bf98e0b1644403402cd1410/output/res/layout/activity_main_lib.xml"
+    },
+    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_list_menu_item_icon.xml"
     },
@@ -250,6 +258,10 @@
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/activity_chat_support.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/activity_chat_support.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
@@ -294,6 +306,10 @@
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/message_layout.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/layout/message_layout.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/layout/aboutieee_tab1.xml",

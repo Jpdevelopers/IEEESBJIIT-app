@@ -4,6 +4,10 @@
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/menu/drawer_menu.xml"
     },
     {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/yugank/.android/build-cache/67acd1f84547e1155bf98e0b1644403402cd1410/output/res/menu/menu_main.xml"
+    },
+    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/menu/menu_dispaly.xml",
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/menu/menu_dispaly.xml"
     }

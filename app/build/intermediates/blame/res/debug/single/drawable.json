@@ -1,23 +1,23 @@
 [
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/team.png",
-        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/team.png"
-    },
-    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/ieee.png",
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/ieee.png"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/team.png",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/team.png"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/drawable/design_fab_background.xml"
-    },
-    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/saransh.jpg",
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/saransh.jpg"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/sumit.jpg",
@@ -28,20 +28,20 @@
         "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/partnersicon.png",
-        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/partnersicon.png"
-    },
-    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/gaurav_verma.jpg",
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/gaurav_verma.jpg"
     },
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/drawable/navigation_empty_icon.xml"
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/partnersicon.png",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/partnersicon.png"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/saloni.jpg",
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/saloni.jpg"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/drawable/navigation_empty_icon.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/yugank.jpg",
@@ -112,12 +112,12 @@
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/pencil.png"
     },
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/piyush_tyagi.jpg",
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/piyush_tyagi.jpg"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/pragati.jpeg",
@@ -140,12 +140,12 @@
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/vaibhav.jpg"
     },
     {
-        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/highlight_text.xml",
-        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/highlight_text.xml"
-    },
-    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
         "source": "/home/yugank/.android/build-cache/e3973de00b62d13e4a29722b4643286ba97cd48b/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/highlight_text.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/highlight_text.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/reetika.jpg",
@@ -234,6 +234,10 @@
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/karan.jpeg",
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/karan.jpeg"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/button_bg.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/button_bg.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/somani.jpg",
@@ -410,6 +414,10 @@
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/events_arrnged.png",
         "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/events_arrnged.png"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/chat_bg.jpg",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/res/drawable/chat_bg.jpg"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable/auth2.png",

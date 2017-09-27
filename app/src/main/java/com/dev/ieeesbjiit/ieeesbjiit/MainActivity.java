@@ -237,7 +237,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
                 if(Username!=null) {
                     Intent intt = new Intent();
-                    //intt.setClass(MainActivity.this, ChatSupport.class);
+                    intt.setClass(MainActivity.this, ChatSupport.class);
                     intt.putExtra("Username", Username);
                     intt.putExtra("Uid", mAuth.getCurrentUser().getUid());
                     startActivity(intt);

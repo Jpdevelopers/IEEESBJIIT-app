@@ -19,6 +19,12 @@ android {
     }
 }
 
+repositories {
+    mavenCentral()
+
+    maven { url "https://jitpack.io" }
+}
+
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
@@ -39,6 +45,8 @@ dependencies {
     compile 'com.roger.catloadinglibrary:catloadinglibrary:1.0.1'
     compile 'com.android.support:support-v4:25.3.1'
     compile 'de.hdodenhof:circleimageview:2.1.0'
+    compile 'com.github.ViksaaSkool:AwesomeSplash:v1.0.0'
+
     compile 'com.google.firebase:firebase-storage:11.0.1'
     testCompile 'junit:junit:4.12'
 }
