@@ -93,6 +93,29 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
                     break;
                 }
 
+                case 3:
+                {
+                    this.ctx.startActivity(new Intent(this.ctx, CompaniesAssociated.class));
+                    break;
+                }
+
+                case 4:
+                {
+                    this.ctx.startActivity(new Intent(this.ctx, AboutAuthority.class));
+                    break;
+                }
+
+                case 5:
+                {
+                    this.ctx.startActivity(new Intent(this.ctx, AboutIeeeSb.class));
+                    break;
+                }
+
+                case 6: {
+                    this.ctx.startActivity(new Intent(this.ctx, AboutIeeeOrg.class));
+                    break;
+                }
+
             }
         }
     }

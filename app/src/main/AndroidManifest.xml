@@ -38,6 +38,20 @@
             android:name=".members_activity"
             android:label="Office Bearers"
             android:theme="@style/my_theme" />
+        <activity
+            android:name=".CompaniesAssociated"
+            android:theme="@style/my_theme" />
+        <activity android:name=".AboutAuthority"
+            android:theme="@style/my_theme"/>
+        <activity
+            android:name=".AboutIeeeSb"
+            android:label="@string/title_activity_about_ieee_sb"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".AboutIeeeOrg"
+            android:label="@string/title_activity_about_ieee_sb"
+            android:theme="@style/AppTheme" />
+
     </application>
 
 </manifest>

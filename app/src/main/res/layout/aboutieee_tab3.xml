@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="10dp">
+<LinearLayout
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/greydark">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/b4_ieee_org"
+        android:layout_margin="18dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:id="@+id/b4_ieee_org"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IEEE organisation"
+        android:background="@drawable/highlight_text"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:paddingTop="10dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:id="@+id/ieee_org_heading"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ieee_org"
+        android:layout_margin="18dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp"
+        android:id="@+id/meaning_ieee"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Executive Committee"
+        android:background="@drawable/highlight_text"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:paddingTop="10dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:id="@+id/exec_cmttee_heading"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exec_cmtee"
+        android:layout_margin="18dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp"
+        android:id="@+id/exec_cmttee"
+        android:layout_marginBottom="40dp"
+        />
+
+
+</LinearLayout>
+</ScrollView>

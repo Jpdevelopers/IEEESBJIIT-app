@@ -180,9 +180,35 @@
         <item>Founder and Ex-Chairman of JP Group\nFounder of JSS</item>
         <item>Vice Chancellor (Acting) </item>
         <item>Dean Students Affairs, Head (T&amp;P) and Nodal Officer for Students Facilitation </item>
-        <item>Admin Manager</item>
-        <item>HoD-CSE/IT</item>
+        <item>Dean</item>
         <item>HoD-ECE</item>
     </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about_ieee_org">AboutIeeeOrg</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    //for about tabbed activities
+    <string name="b4_mission">IEEE is the world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity.</string>
+    <string name="mission_ieee">IEEE\'s core purpose is to foster technological innovation and excellence for the benefit of humanity. </string>
+    <string name="vision_ieee">IEEE will be essential to the global technical community and to technical professionals everywhere, and be universally recognized for the contributions of technology and of technical professionals in improving global conditions.</string>
+
+    <string name="b4_meaning">IEEE, an association dedicated to advancing innovation and technological excellence for the benefit of humanity, is the world’s largest technical professional society. It is designed to serve professionals involved in all aspects of the electrical, electronic, and computing fields and related areas of science and technology that underlie modern civilization.
+IEEE’s roots go back to 1884 when electricity began to become a major influence in society. There was one major established electrical industry, the telegraph, which since the 1840s had come to connect the world with a data communications system faster than the speed of transportation. The telephone and electric power and light industries had just gotten underway.</string>
+    <string name="meaning_ieee">IEEE, pronounced \'Eye-triple-E\' stands for the Institute of Electrical and Electronics Engineers. The association is chartered under this name and it is the full legal name. However, as the world\'s largest technical professional association, IEEE\'s membership has long been composed of engineers, scientists, and allied professionals. These include computer scientists, software developers, information technology professionals, physicists, medical doctors, and many others in addition to IEEE\'s electrical and electronics engineering core. For this reason the organization no longer goes by the full name, except on legal business documents, and is referred to simply as IEEE.</string>
+    <string name="growth_globalisation">As technologies and the industries that developed them increasingly transcended national boundaries, IEEE has kept pace. It is now a global institution that uses the innovations of the practitioners it represents to enhance IEEE\’s excellence in delivering products and services to members, industries, and the public at large. Publications and educational programs are delivered online, as are member services such as renewal and elections. By 2010, IEEE comprised over 395,000 members in 160 countries. Through its global network of geographical units, publications, web services, and conferences, IEEE remains the world\'s largest technical professional association.</string>
+
+
+    <string name="b4_ieee_org">IEEE worldwide membership is geographically divided into ten Regions. These Regions are further divided into Sections that serve as the centers of activity for professional engineers at the local level. Your Student Branch falls under your local Section. You can locate your Section by visiting myIEEE and selecting Communities. </string>
+    <string name="ieee_org">To provide services for members, IEEE depends not only on a well-trained staff but also on thousands of dedicated volunteers, including Student Branch officers, faculty counselors, Section officers, and Regional volunteers. The Student Activities Committee, Student Services Headquarters staff, Student Branch Chapters, Student Branch affinity groups, and faculty counselors are all committed to the success of the student program.</string>
+    <string name="exec_cmtee">The key to running a successful Student Branch is in the administration. There are several key positions: the Branch Officers (Chair, Vice-Chair, Treasurer, and Secretary), the Branch Counselor (or Faculty Advisor), and the subcommittee Chairs. While each has somewhat different duties, it is important to work together as a team. </string>
+    <string name="title_activity_about_ieee_sb">AboutIeeeSb</string>
+
+    <string name="background">IEEE Student branch of Jaypee Institute of Information and Technology – Noida opened with a group of students enrolled in various B.Tech Courses of JIIT-Noida with a view to promote technical activities in the campus, city and Delhi. Mr. Gaurav Verma became the first Counsellor of the branch.</string>
+
+    <string name="objectives">\u25BA Organizing Technical competitions, Field trips, Workshops, Knowledge and Motivational Lectures. \n\u25BA Managing National and International Conferences. \n\u25BA Development of Management skills.\n\u25BA Establishing Mutually Beneficial Relationships with Corporates.\n\u25BA Indulging in any other activity which is for the benefit of students.</string>
+    <string name="sponsorship">IEEE SB JIIT-Noida is invloved in organizing Technical activties for the students of Colleges / Institutes and Universities coming under IEEE Region Delhi Section. We promote our events by various means in geographic areas. By Sponsoring our Student Branch, Companies will not only take a step ahead in their CSR but will also be able to promote their brand in our events in various forms. To get associated with us fill the enquiry form under the Contact us .</string>
+
 
 </resources>
