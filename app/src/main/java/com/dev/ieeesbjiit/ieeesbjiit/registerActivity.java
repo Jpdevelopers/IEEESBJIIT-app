@@ -1,7 +1,10 @@
 package com.dev.ieeesbjiit.ieeesbjiit;
 
+import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.support.annotation.IdRes;
 import android.support.annotation.NonNull;
@@ -118,8 +121,11 @@ public class registerActivity extends AppCompatActivity {
                             .addOnCompleteListener(registerActivity.this, new OnCompleteListener<AuthResult>() {
                                 @Override
                                 public void onComplete(@NonNull Task<AuthResult> task) {
-
-                                    if (!task.isSuccessful()) {
+                                    if (!isNetworkAvailable()) {
+                                        Toast.makeText(registerActivity.this, "Network error. Please check your internet connection!", Toast.LENGTH_SHORT).show();
+                                        mView.dismiss();
+                                    }
+                                    else if (!task.isSuccessful()) {
                                         Toast.makeText(registerActivity.this, "Authentication Failed. Please try again!", Toast.LENGTH_SHORT).show();
                                         mView.dismiss();
                                     } else {
@@ -163,5 +169,12 @@ public class registerActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
 
+    }
+
+    private boolean isNetworkAvailable() {
+        ConnectivityManager connectivityManager
+                = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo activeNetworkInfo = connectivityManager.getActiveNetworkInfo();
+        return activeNetworkInfo != null && activeNetworkInfo.isConnectedOrConnecting();
     }
 }
