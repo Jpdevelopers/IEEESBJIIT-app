@@ -1,217 +1,220 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:orientation="vertical"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/table_bg"
 
-    android:background="@drawable/table_bg">
+              android:orientation="vertical">
 
     <TextView
         android:layout_width="170dp"
         android:layout_height="40dp"
-        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
         android:padding="5dp"
         android:text="Register here"
-        android:textSize="20dp"
-        android:textColor="#e0f7fa"/>
+        android:textColor="#e0f7fa"
+        android:textSize="20dp"/>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="450dp"
-        android:layout_marginLeft="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
         android:layout_marginTop="10dp"
-        android:layout_marginRight="30dp"
         android:background="@drawable/login_bg"
         android:orientation="vertical"
         android:weightSum="6"
         >
 
         <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/et_name"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="1"
-            android:hint="name"
+            android:layout_marginEnd="20dp"
 
-            android:id="@+id/et_name"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
-            android:layout_marginRight="20dp"
-            app:met_textColorHint="#bdbdbd"
+            android:layout_weight="1"
+            android:hint="name"
+            android:inputType="text"
 
 
-            app:met_baseColor="#ffff00"
-            app:met_primaryColor="#76ff03"
-            app:met_errorColor="#ddaa00"
-
+            android:maxLines="1"
             android:textSize="15dp"
+            app:met_baseColor="#ffff00"
+
+            app:met_errorColor="#ddaa00"
 
 
             app:met_floatingLabel="highlight"
             app:met_floatingLabelText="Name"
             app:met_floatingLabelTextSize="10dp"
-            android:maxLines="1"
-            android:inputType="text"
+            app:met_primaryColor="#76ff03"
+            app:met_textColorHint="#bdbdbd"
 
             />
 
 
         <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/et_passwordreg"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="1"
-            android:hint="password"
+            android:layout_marginEnd="20dp"
 
-            android:id="@+id/et_passwordreg"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
-            android:layout_marginRight="20dp"
-            app:met_textColorHint="#bdbdbd"
+            android:layout_weight="1"
+            android:hint="password"
+            android:inputType="textPassword"
 
 
-            app:met_baseColor="#ffff00"
-            app:met_primaryColor="#76ff03"
-            app:met_errorColor="#ddaa00"
-
+            android:maxLines="1"
             android:textSize="15dp"
+            app:met_baseColor="#ffff00"
+
+            app:met_errorColor="#ddaa00"
 
 
             app:met_floatingLabel="highlight"
             app:met_floatingLabelText="Password (8-15)"
             app:met_floatingLabelTextSize="10dp"
-            android:maxLines="1"
-            android:inputType="textPassword"
-
-            />
-        <com.rengwuxian.materialedittext.MaterialEditText
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:hint="enrollment number(only for JIIT students)"
-
-            android:id="@+id/et_enrol"
-            android:layout_marginStart="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginRight="20dp"
+            app:met_primaryColor="#76ff03"
             app:met_textColorHint="#bdbdbd"
 
+            />
 
-            app:met_baseColor="#ffff00"
-            app:met_primaryColor="#76ff03"
-            app:met_errorColor="#ddaa00"
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/et_enrol"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginEnd="20dp"
 
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:hint="@string/jiit_enrol"
+            android:inputType="number"
+
+
+            android:maxLines="1"
             android:textSize="15dp"
+            app:met_baseColor="#ffff00"
+
+            app:met_errorColor="#ddaa00"
 
 
             app:met_floatingLabel="highlight"
             app:met_floatingLabelText="Enrollment Number"
             app:met_floatingLabelTextSize="10dp"
-            android:maxLines="1"
-            android:inputType="number"
-
-            />
-        <com.rengwuxian.materialedittext.MaterialEditText
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:hint="phone"
-
-            android:id="@+id/et_phone"
-            android:layout_marginStart="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginRight="20dp"
+            app:met_primaryColor="#76ff03"
             app:met_textColorHint="#bdbdbd"
 
+            />
 
-            app:met_baseColor="#ffff00"
-            app:met_primaryColor="#76ff03"
-            app:met_errorColor="#ddaa00"
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/et_phone"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginEnd="20dp"
 
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:hint="phone"
+            android:inputType="phone"
+
+
+            android:maxLines="1"
             android:textSize="15dp"
+            app:met_baseColor="#ffff00"
+
+            app:met_errorColor="#ddaa00"
 
 
             app:met_floatingLabel="highlight"
             app:met_floatingLabelText="Phone"
             app:met_floatingLabelTextSize="10dp"
-            android:maxLines="1"
-            android:inputType="phone"
-
-            />
-        <com.rengwuxian.materialedittext.MaterialEditText
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:hint="email"
-
-            android:id="@+id/et_email"
-            android:layout_marginStart="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginRight="20dp"
+            app:met_primaryColor="#76ff03"
             app:met_textColorHint="#bdbdbd"
 
+            />
 
-            app:met_baseColor="#ffff00"
-            app:met_primaryColor="#76ff03"
-            app:met_errorColor="#ddaa00"
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginEnd="20dp"
 
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:hint="email"
+            android:inputType="textEmailAddress"
+
+
+            android:maxLines="1"
             android:textSize="15dp"
+            app:met_baseColor="#ffff00"
+
+            app:met_errorColor="#ddaa00"
 
 
             app:met_floatingLabel="highlight"
             app:met_floatingLabelText="Email"
             app:met_floatingLabelTextSize="10dp"
-            android:maxLines="1"
-            android:inputType="text"
+            app:met_primaryColor="#76ff03"
+            app:met_textColorHint="#bdbdbd"
 
             />
 
         <RadioGroup
+            android:id="@+id/hostel"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:orientation="horizontal"
-            android:id="@+id/hostel">
+            android:orientation="horizontal">
 
 
             <RadioButton
+                android:id="@+id/rb_hosteller"
                 android:layout_width="0dp"
-                android:layout_weight="1"
                 android:layout_height="match_parent"
-                android:text="Hosteller"
-                android:id="@+id/hosteller"
+                android:layout_weight="1"
                 android:checked="true"
+                android:text="Hosteller"
                 android:textColor="#bdbdbd"
                 />
+
             <RadioButton
-                android:layout_width="0dp"
-                android:layout_weight="1"
-                android:layout_height="match_parent"
-                android:text="Day Scholar"
                 android:id="@+id/day_scholar"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
                 android:checked="false"
+                android:text="Day Scholar"
                 android:textColor="#bdbdbd"
                 />
 
             <RadioButton
-                android:layout_width="0dp"
-                android:layout_weight="1"
-                android:layout_height="match_parent"
-                android:text="Other"
                 android:id="@+id/other"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Other"
                 android:textColor="#bdbdbd"
                 />
-
 
 
         </RadioGroup>
 
 
         <Button
+            android:id="@+id/register_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Register"
             android:layout_margin="10dp"
-            android:id="@+id/register_button"
+            android:text="Register"
             />
 
 
