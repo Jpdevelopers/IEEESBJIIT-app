@@ -56,7 +56,7 @@ public class registerActivity extends AppCompatActivity {
             @Override
             public void onCheckedChanged(RadioGroup group, @IdRes int checkedId) {
                 int id= hostel.getCheckedRadioButtonId();
-                if(id == R.id.hosteller) {
+                if(id == R.id.rb_hosteller) {
                     accomodation = "Hosteller";
                     enrol.setVisibility(View.VISIBLE);
                 }
