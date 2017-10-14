@@ -8,14 +8,14 @@ package com.github.jorgecastillo.library;
 
 public final class R {
     public static final class attr {
-        public static final int fl_clippingTransform = 0x7f0100fd;
-        public static final int fl_fillColor = 0x7f0100f6;
-        public static final int fl_fillDuration = 0x7f0100fc;
-        public static final int fl_originalHeight = 0x7f0100fa;
-        public static final int fl_originalWidth = 0x7f0100f9;
-        public static final int fl_strokeColor = 0x7f0100f7;
-        public static final int fl_strokeDrawingDuration = 0x7f0100fb;
-        public static final int fl_strokeWidth = 0x7f0100f8;
+        public static final int fl_clippingTransform = 0x7f010105;
+        public static final int fl_fillColor = 0x7f0100fe;
+        public static final int fl_fillDuration = 0x7f010104;
+        public static final int fl_originalHeight = 0x7f010102;
+        public static final int fl_originalWidth = 0x7f010101;
+        public static final int fl_strokeColor = 0x7f0100ff;
+        public static final int fl_strokeDrawingDuration = 0x7f010103;
+        public static final int fl_strokeWidth = 0x7f010100;
     }
     public static final class color {
         public static final int fillColor = 0x7f0d0035;
@@ -42,7 +42,7 @@ public final class R {
         public static final int app_name = 0x7f080033;
     }
     public static final class styleable {
-        public static final int[] FillableLoader = { 0x7f0100f6, 0x7f0100f7, 0x7f0100f8, 0x7f0100f9, 0x7f0100fa, 0x7f0100fb, 0x7f0100fc, 0x7f0100fd };
+        public static final int[] FillableLoader = { 0x7f0100fe, 0x7f0100ff, 0x7f010100, 0x7f010101, 0x7f010102, 0x7f010103, 0x7f010104, 0x7f010105 };
         public static final int FillableLoader_fl_clippingTransform = 7;
         public static final int FillableLoader_fl_fillColor = 0;
         public static final int FillableLoader_fl_fillDuration = 6;

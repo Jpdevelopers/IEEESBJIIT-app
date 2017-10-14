@@ -27,7 +27,7 @@ public final class R {
         public static final int actionBarWidgetTheme = 0x7f010044;
         public static final int actionButtonStyle = 0x7f010061;
         public static final int actionDropDownStyle = 0x7f01005d;
-        public static final int actionLayout = 0x7f01012b;
+        public static final int actionLayout = 0x7f010133;
         public static final int actionMenuTextAppearance = 0x7f010048;
         public static final int actionMenuTextColor = 0x7f010049;
         public static final int actionModeBackground = 0x7f01004c;
@@ -44,8 +44,8 @@ public final class R {
         public static final int actionModeStyle = 0x7f01004a;
         public static final int actionModeWebSearchDrawable = 0x7f010055;
         public static final int actionOverflowButtonStyle = 0x7f01003e;
-        public static final int actionProviderClass = 0x7f01012d;
-        public static final int actionViewClass = 0x7f01012c;
+        public static final int actionProviderClass = 0x7f010135;
+        public static final int actionViewClass = 0x7f010134;
         public static final int activityChooserViewStyle = 0x7f010069;
         public static final int background = 0x7f01000c;
         public static final int backgroundSplit = 0x7f01000e;
@@ -56,7 +56,7 @@ public final class R {
         public static final int displayOptions = 0x7f010005;
         public static final int divider = 0x7f01000b;
         public static final int dividerHorizontal = 0x7f010068;
-        public static final int dividerPadding = 0x7f010107;
+        public static final int dividerPadding = 0x7f01010f;
         public static final int dividerVertical = 0x7f010067;
         public static final int dropDownListViewStyle = 0x7f01007a;
         public static final int dropdownListPreferredItemHeight = 0x7f01005e;
@@ -65,7 +65,7 @@ public final class R {
         public static final int homeAsUpIndicator = 0x7f010060;
         public static final int homeLayout = 0x7f010010;
         public static final int icon = 0x7f010009;
-        public static final int iconifiedByDefault = 0x7f010141;
+        public static final int iconifiedByDefault = 0x7f010149;
         public static final int indeterminateProgressStyle = 0x7f010012;
         public static final int initialActivityCount = 0x7f01001f;
         public static final int isLightTheme = 0x7f010002;
@@ -79,17 +79,17 @@ public final class R {
         public static final int listPreferredItemPaddingRight = 0x7f010079;
         public static final int logo = 0x7f01000a;
         public static final int navigationMode = 0x7f010004;
-        public static final int paddingEnd = 0x7f01018c;
-        public static final int paddingStart = 0x7f01018b;
+        public static final int paddingEnd = 0x7f010194;
+        public static final int paddingStart = 0x7f010193;
         public static final int panelMenuListTheme = 0x7f010080;
         public static final int panelMenuListWidth = 0x7f01007f;
         public static final int popupMenuStyle = 0x7f01006c;
         public static final int progressBarPadding = 0x7f010013;
         public static final int progressBarStyle = 0x7f010011;
-        public static final int queryHint = 0x7f010142;
+        public static final int queryHint = 0x7f01014a;
         public static final int selectableItemBackground = 0x7f010064;
-        public static final int showAsAction = 0x7f01012a;
-        public static final int showDividers = 0x7f010106;
+        public static final int showAsAction = 0x7f010132;
+        public static final int showDividers = 0x7f01010e;
         public static final int spinnerDropDownItemStyle = 0x7f01005f;
         public static final int spinnerStyle = 0x7f01009f;
         public static final int subtitle = 0x7f010006;
@@ -164,7 +164,7 @@ public final class R {
         public static final int default_activity_button = 0x7f0f0056;
         public static final int disableHome = 0x7f0f0012;
         public static final int edit_query = 0x7f0f0075;
-        public static final int end = 0x7f0f002a;
+        public static final int end = 0x7f0f002b;
         public static final int expand_activities_button = 0x7f0f0054;
         public static final int expanded_menu = 0x7f0f0069;
         public static final int home = 0x7f0f0004;
@@ -219,7 +219,7 @@ public final class R {
         public static final int abc_popup_menu_item_layout = 0x7f040013;
         public static final int abc_search_dropdown_item_icons_2line = 0x7f040018;
         public static final int abc_search_view = 0x7f040019;
-        public static final int support_simple_spinner_dropdown_item = 0x7f040055;
+        public static final int support_simple_spinner_dropdown_item = 0x7f040058;
     }
     public static final class string {
         public static final int abc_action_bar_home_description = 0x7f080000;
@@ -344,7 +344,7 @@ public final class R {
         public static final int MenuGroup_android_menuCategory = 3;
         public static final int MenuGroup_android_orderInCategory = 4;
         public static final int MenuGroup_android_visible = 2;
-        public static final int[] MenuItem = { 0x01010002, 0x0101000e, 0x010100d0, 0x01010106, 0x01010194, 0x010101de, 0x010101df, 0x010101e1, 0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5, 0x0101026f, 0x7f01012a, 0x7f01012b, 0x7f01012c, 0x7f01012d };
+        public static final int[] MenuItem = { 0x01010002, 0x0101000e, 0x010100d0, 0x01010106, 0x01010194, 0x010101de, 0x010101df, 0x010101e1, 0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5, 0x0101026f, 0x7f010132, 0x7f010133, 0x7f010134, 0x7f010135 };
         public static final int MenuItem_actionLayout = 14;
         public static final int MenuItem_actionProviderClass = 16;
         public static final int MenuItem_actionViewClass = 15;
@@ -362,7 +362,7 @@ public final class R {
         public static final int MenuItem_android_titleCondensed = 8;
         public static final int MenuItem_android_visible = 4;
         public static final int MenuItem_showAsAction = 13;
-        public static final int[] MenuView = { 0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e, 0x0101012f, 0x01010130, 0x01010131, 0x7f01012e, 0x7f01012f };
+        public static final int[] MenuView = { 0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e, 0x0101012f, 0x01010130, 0x01010131, 0x7f010136, 0x7f010137 };
         public static final int MenuView_android_headerBackground = 4;
         public static final int MenuView_android_horizontalDivider = 2;
         public static final int MenuView_android_itemBackground = 5;
@@ -370,7 +370,7 @@ public final class R {
         public static final int MenuView_android_itemTextAppearance = 1;
         public static final int MenuView_android_verticalDivider = 3;
         public static final int MenuView_android_windowAnimationStyle = 0;
-        public static final int[] SearchView = { 0x010100da, 0x0101011f, 0x01010220, 0x01010264, 0x7f010140, 0x7f010141, 0x7f010142, 0x7f010143, 0x7f010144, 0x7f010145, 0x7f010146, 0x7f010147, 0x7f010148, 0x7f010149, 0x7f01014a, 0x7f01014b, 0x7f01014c };
+        public static final int[] SearchView = { 0x010100da, 0x0101011f, 0x01010220, 0x01010264, 0x7f010148, 0x7f010149, 0x7f01014a, 0x7f01014b, 0x7f01014c, 0x7f01014d, 0x7f01014e, 0x7f01014f, 0x7f010150, 0x7f010151, 0x7f010152, 0x7f010153, 0x7f010154 };
         public static final int SearchView_android_imeOptions = 3;
         public static final int SearchView_android_inputType = 2;
         public static final int SearchView_android_maxWidth = 1;
@@ -379,7 +379,7 @@ public final class R {
         public static final int[] Spinner = { 0x010100b2, 0x01010176, 0x0101017b, 0x01010262, 0x7f01001d };
         public static final int Spinner_android_dropDownWidth = 3;
         public static final int Spinner_android_popupBackground = 1;
-        public static final int[] View = { 0x01010000, 0x010100da, 0x7f01018b, 0x7f01018c, 0x7f01018d };
+        public static final int[] View = { 0x01010000, 0x010100da, 0x7f010193, 0x7f010194, 0x7f010195 };
         public static final int View_android_focusable = 1;
         public static final int View_paddingEnd = 3;
         public static final int View_paddingStart = 2;

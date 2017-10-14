@@ -26,6 +26,8 @@
                 android:id="@+id/main_recycler_view"
                 android:layout_marginTop="10dp"></android.support.v7.widget.RecyclerView>
 
+
+
             <android.support.design.widget.FloatingActionButton
                 android:id="@+id/chatfab"
                 android:layout_width="wrap_content"
@@ -36,6 +38,18 @@
                 app:fabSize="normal"
                 app:backgroundTint="#68EFAD"
                 />
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/botfab"
+                android:layout_width="94dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|bottom"
+                android:layout_marginBottom="95dp"
+                android:layout_marginEnd="24dp"
+                android:clickable="true"
+                app:backgroundTint="@color/fillColor"
+                app:fabSize="mini"
+                app:srcCompat="@drawable/team" />
             <!--880e4f-->
         </FrameLayout>
 

@@ -2,5 +2,17 @@
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable-xxhdpi/met_ic_clear.png",
         "source": "/home/yugank/.android/build-cache/b9a3336ad8415aa95b0ce370916eddb6c98eb0a0/output/res/drawable-xxhdpi/met_ic_clear.png"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bot.png",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/pngs/debug/drawable-xxhdpi/bot.png"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_send_24dp.png",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_send_24dp.png"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable-xxhdpi/cmv_arrow.png",
+        "source": "/home/yugank/.android/build-cache/741922ec10765bd53b345b484c13b4cf29c0a8c1/output/res/drawable-xxhdpi/cmv_arrow.png"
     }
 ]

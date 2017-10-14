@@ -10,5 +10,14 @@
         sha1="d229475a85469cc6aab6348e8714bd1c1f833fb4">
         <dex dex="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/pre-dexed/debug/gradle-wrapper_964a2360d8c520edc66dfa80ddb6f6f4bb853a50.jar" />
     </item>
+    <item
+        is-multidex="false"
+        jar="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/libs/Ab.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7496189919b4d17d8edff988421623653cc8b1">
+        <dex dex="/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/pre-dexed/debug/Ab_619b07c1d6cd44d7a26e4148b5a8e80e0f8a08f8.jar" />
+    </item>
 
 </items>

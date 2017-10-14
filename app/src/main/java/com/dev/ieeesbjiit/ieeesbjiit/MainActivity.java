@@ -245,6 +245,19 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+        FloatingActionButton bot_fab = (FloatingActionButton) findViewById(R.id.botfab);
+        bot_fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+
+                Intent intt = new Intent();
+                intt.setClass(MainActivity.this, BotMainActivity.class);
+
+                startActivity(intt);
+            }
+        });
     }
 
     @Override

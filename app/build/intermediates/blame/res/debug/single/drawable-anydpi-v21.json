@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/bot.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/pngs/debug/drawable-anydpi-v21/bot.xml"
+    },
+    {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
         "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
         "source": "/home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_send_24dp.xml",
+        "source": "/home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_send_24dp.xml"
     }
 ]

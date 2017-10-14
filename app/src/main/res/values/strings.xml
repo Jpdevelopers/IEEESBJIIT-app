@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IEEESBJIIT</string>
+    <string name="app_name">IEEE SB JIIT</string>
     <string-array name="title_names">
         <item>"Upcoming Events"</item>
         <item>"Events/Workshops"</item>
@@ -20,7 +20,7 @@
     </string-array>
     <string name="drawer_open">drawer open</string>
     <string name="drawer_close">drawer close</string>
-    <string name="copyright">Copyright © 2017 IEEE JIIT SB . All Rights Reserved.</string>
+    <string name="copyright">Copyright © 2017 IEEE JIIT SB . All Rights Reserved. \nApplication Designed and Develpoed by Yugank Sharma.</string>
 
     <string-array name="sessions">
         <item>"&#9774;  Session 2017&#8211;18 (Current)"</item>

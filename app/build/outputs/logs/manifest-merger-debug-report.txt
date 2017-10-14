@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:2:1-58:12
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:2:1-66:12
 	package
 		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml
@@ -13,8 +13,16 @@ ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/Androi
 	android:versionCode
 		INJECTED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml
 		INJECTED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:6:5-84
+	android:name
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:6:22-81
 application
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:5:5-56:19
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:8:5-64:19
 MERGED from [com.android.support:cardview-v7:25.3.1] /home/yugank/.android/build-cache/15341d40e7db32fd7756d4f35f09ad39dfb986c6/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:design:25.3.1] /home/yugank/.android/build-cache/49af39e053369a79641153ff9741359dd8241986/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.1] /home/yugank/.android/build-cache/110da0cf1e5b3a6d021b1481431eca9b88f60a5f/output/AndroidManifest.xml:26:5-20
@@ -28,6 +36,7 @@ MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] /home/yugank/.and
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/yugank/.android/build-cache/5de3698a58f69fd17c4875ab6856b55b15f231a4/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/yugank/.android/build-cache/73604ac24779e2a8f13c3a3052779c853da086c6/output/AndroidManifest.xml:26:5-20
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] /home/yugank/.android/build-cache/741922ec10765bd53b345b484c13b4cf29c0a8c1/output/AndroidManifest.xml:11:5-14:19
 MERGED from [com.google.firebase:firebase-core:11.0.1] /home/yugank/.android/build-cache/5012add305a5cf879f491338f6f2d1464213b1a3/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:11.0.1] /home/yugank/.android/build-cache/5e00c9f75848e78b2ce7be99909ce966836224b9/output/AndroidManifest.xml:24:5-34:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /home/yugank/.android/build-cache/5425e5ef1ebc25d2d301b2bd5b0df5d5891cc663/output/AndroidManifest.xml:24:5-28:19
@@ -42,105 +51,113 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /home/yugank/.android/b
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/yugank/.android/build-cache/c5efd7bf317e6b924c5593e285980bc0ea6107ba/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/yugank/.android/build-cache/078c6053a0c7c87df9a33eed15018a4c68c68343/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:13:9-35
 	android:roundIcon
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:12:9-54
 	android:allowBackup
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:10:9-43
 	android:theme
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:14:9-40
 activity#com.dev.ieeesbjiit.ieeesbjiit.SplashScreen
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:15:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:19:27-74
 activity#com.dev.ieeesbjiit.ieeesbjiit.loginActivity
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:19:9-22:20
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:22:9-25:20
 	android:screenOrientation
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:20:13-49
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:23:13-49
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:19:19-48
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:22:19-48
 activity#com.dev.ieeesbjiit.ieeesbjiit.PreviousEvents
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:23:9-25:47
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:26:9-28:47
 	android:theme
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:25:13-44
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:28:13-44
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:24:13-43
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:27:13-43
 activity#com.dev.ieeesbjiit.ieeesbjiit.registerActivity
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:26:9-27:51
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:29:9-30:51
 	android:screenOrientation
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:27:13-49
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:30:13-49
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:26:19-51
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:29:19-51
 activity#com.dev.ieeesbjiit.ieeesbjiit.MainActivity
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:28:9-30:20
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:31:9-33:20
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:28:19-47
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:31:19-47
 activity#com.dev.ieeesbjiit.ieeesbjiit.TeamSessions
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:31:9-34:47
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:34:9-37:47
 	android:label
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:33:13-43
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:36:13-43
 	android:theme
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:34:13-44
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:37:13-44
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:32:13-41
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:35:13-41
 activity#com.dev.ieeesbjiit.ieeesbjiit.members_activity
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:35:9-38:47
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:38:9-41:47
 	android:label
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:37:13-43
-	android:theme
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:38:13-44
-	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:36:13-45
-activity#com.dev.ieeesbjiit.ieeesbjiit.CompaniesAssociated
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:39:9-41:47
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:40:13-43
 	android:theme
 		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:41:13-44
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:40:13-48
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:39:13-45
+activity#com.dev.ieeesbjiit.ieeesbjiit.CompaniesAssociated
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:42:9-44:47
+	android:theme
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:43:13-48
 activity#com.dev.ieeesbjiit.ieeesbjiit.AboutAuthority
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:42:9-43:46
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:45:9-46:46
 	android:theme
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:43:13-44
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:46:13-44
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:42:19-49
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:45:19-49
 activity#com.dev.ieeesbjiit.ieeesbjiit.AboutIeeeSb
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:44:9-47:47
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:47:9-50:47
 	android:label
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:46:13-65
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:49:13-65
 	android:theme
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:47:13-44
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:50:13-44
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:45:13-40
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:48:13-40
 activity#com.dev.ieeesbjiit.ieeesbjiit.AboutIeeeOrg
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:48:9-51:47
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:51:9-54:47
 	android:label
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:50:13-66
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:53:13-66
 	android:theme
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:51:13-44
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:54:13-44
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:49:13-41
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:52:13-41
 activity#com.dev.ieeesbjiit.ieeesbjiit.ChatSupport
-ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:52:9-55:47
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:55:9-58:47
 	android:label
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:54:13-41
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:57:13-41
 	android:theme
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:55:13-44
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:58:13-44
 	android:name
-		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:53:13-40
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:56:13-40
+activity#com.dev.ieeesbjiit.ieeesbjiit.BotMainActivity
+ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:59:9-63:20
+	android:label
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:60:21-53
+	android:theme
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:61:21-52
+	android:name
+		ADDED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml:59:19-50
 uses-sdk
 INJECTED from /home/yugank/AndroidStudioProjects/IEEESBJIIT-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:cardview-v7:25.3.1] /home/yugank/.android/build-cache/15341d40e7db32fd7756d4f35f09ad39dfb986c6/output/AndroidManifest.xml:20:5-43
@@ -163,6 +180,7 @@ MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] /home/yugank/.and
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/yugank/.android/build-cache/031bb97b3da26c0894e173c10bd60aeca5f467da/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/yugank/.android/build-cache/5de3698a58f69fd17c4875ab6856b55b15f231a4/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/yugank/.android/build-cache/73604ac24779e2a8f13c3a3052779c853da086c6/output/AndroidManifest.xml:20:5-43
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] /home/yugank/.android/build-cache/741922ec10765bd53b345b484c13b4cf29c0a8c1/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-storage:11.0.1] /home/yugank/.android/build-cache/e33830667a8adee694bb2570a6c5fab32276b216/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.firebase:firebase-storage-common:11.0.1] /home/yugank/.android/build-cache/f73af47117039631a15d7bb0b6cf55f17841dd8b/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.firebase:firebase-core:11.0.1] /home/yugank/.android/build-cache/5012add305a5cf879f491338f6f2d1464213b1a3/output/AndroidManifest.xml:4:5-43

@@ -1,0 +1,8 @@
+url:http://djustice-android.tumblr.com
+name:Leon
+email:gargya.shelly@gmail.com
+gender:male
+botmaster:Yugank Sharma
+organization:Jaypee Institute of Information Technology
+version:0.0.1
+

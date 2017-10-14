@@ -8,6 +8,9 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="25" />
 
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
     <meta-data
         android:name="android.support.VERSION"
         android:value="25.3.1" /> <!-- Required permission for App measurement to run. -->
@@ -74,6 +77,11 @@
             android:name="com.dev.ieeesbjiit.ieeesbjiit.ChatSupport"
             android:label="Chat Support"
             android:theme="@style/my_theme" />
+        <activity
+            android:name="com.dev.ieeesbjiit.ieeesbjiit.BotMainActivity"
+            android:label="Leon Virtual Ass"
+            android:theme="@style/my_theme" >
+        </activity>
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
